@@ -1,0 +1,242 @@
+# Tamil translation for pantheon-terminal
+# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
+# This file is distributed under the same license as the pantheon-terminal package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pantheon-terminal\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-04-03 09:30-0700\n"
+"PO-Revision-Date: 2014-03-20 08:29+0000\n"
+"Last-Translator: Khaleel Jageer <jskcse4@gmail.com>\n"
+"Language-Team: Tamil <ta@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2015-04-04 05:36+0000\n"
+"X-Generator: Launchpad (build 17413)\n"
+
+#: ../src/UnsafePasteDialog.vala:33
+msgid "This command is asking for Administrative access to your computer"
+msgstr ""
+
+#: ../src/UnsafePasteDialog.vala:34
+msgid "Copying commands from the internet can be dangerous. "
+msgstr ""
+
+#: ../src/UnsafePasteDialog.vala:35
+msgid "Be sure you understand what each part of this command does."
+msgstr ""
+
+#: ../src/UnsafePasteDialog.vala:39
+msgid "Don't Paste"
+msgstr ""
+
+#: ../src/UnsafePasteDialog.vala:42
+msgid "Paste Anyway"
+msgstr ""
+
+#: ../src/PantheonTerminalWindow.vala:116
+#: ../src/PantheonTerminalWindow.vala:555 ../src/PantheonTerminal.vala:46
+#: ../src/Constants.vala:7
+msgid "Terminal"
+msgstr "முனையம்"
+
+#: ../src/PantheonTerminalWindow.vala:174
+msgid "Find…"
+msgstr ""
+
+#: ../src/PantheonTerminalWindow.vala:762
+#: ../src/PantheonTerminalWindow.vala:763
+msgid "Close"
+msgstr "மூடு"
+
+#: ../src/PantheonTerminalWindow.vala:767 ../src/Constants.vala:8
+msgid "New Window"
+msgstr "புதிய சாளரம்"
+
+#: ../src/PantheonTerminalWindow.vala:767
+msgid "Open a new window"
+msgstr "புதிய சாளரத்தை திற"
+
+#: ../src/PantheonTerminalWindow.vala:771
+msgid "New Tab"
+msgstr "புதிய கீற்று"
+
+#: ../src/PantheonTerminalWindow.vala:771
+msgid "Create a new tab"
+msgstr "புதிய தாவலை உருவாக்க"
+
+#: ../src/PantheonTerminalWindow.vala:775
+msgid "Copy"
+msgstr "நகலெடு"
+
+#: ../src/PantheonTerminalWindow.vala:775
+msgid "Copy the selected text"
+msgstr "தேர்ந்தெடுக்கப்பட்டுள்ள உரையை நகலெடு"
+
+#: ../src/PantheonTerminalWindow.vala:779
+msgid "Find in text"
+msgstr ""
+
+#: ../src/PantheonTerminalWindow.vala:780
+msgid "Search for a given string in the terminal"
+msgstr ""
+
+#: ../src/PantheonTerminalWindow.vala:783
+msgid "Paste"
+msgstr "ஒட்டு"
+
+#: ../src/PantheonTerminalWindow.vala:783
+msgid "Paste some text"
+msgstr "ஏதேனும் உரையை ஒட்டவும்"
+
+#: ../src/PantheonTerminalWindow.vala:787
+msgid "Select All"
+msgstr "அனைத்தும் தேர்ந்தெடு"
+
+#: ../src/PantheonTerminalWindow.vala:788
+msgid "Select all the text in the terminal"
+msgstr "முனையத்தில் உள்ள அனைத்து உரையையும் தேர்ந்தெடுக்க"
+
+#: ../src/PantheonTerminalWindow.vala:790
+msgid "About"
+msgstr "பற்றி"
+
+#: ../src/PantheonTerminalWindow.vala:791
+msgid "Show about window"
+msgstr "சாளரத்தை பற்றி காட்டு"
+
+#: ../src/PantheonTerminalWindow.vala:793
+msgid "Next Tab"
+msgstr "அடுத்த தத்தல்"
+
+#: ../src/PantheonTerminalWindow.vala:794
+msgid "Go to next tab"
+msgstr "அடுத்த தாவலுக்கு செல்ல"
+
+#: ../src/PantheonTerminalWindow.vala:797
+msgid "Previous Tab"
+msgstr "முந்தைய தத்தல்"
+
+#: ../src/PantheonTerminalWindow.vala:798
+msgid "Go to previous tab"
+msgstr "முந்தைய தாவலுக்கு செல்ல"
+
+#: ../src/PantheonTerminalWindow.vala:801
+#: ../src/PantheonTerminalWindow.vala:802
+msgid "Zoom in"
+msgstr "பெரிதாக்கு"
+
+#: ../src/PantheonTerminalWindow.vala:806
+msgid "Zoom out"
+msgstr "சிறிதாக்கு"
+
+#: ../src/PantheonTerminalWindow.vala:810
+msgid "Fullscreen"
+msgstr "முழுத்திரை"
+
+#: ../src/PantheonTerminalWindow.vala:810
+msgid "Toggle/Untoggle fullscreen"
+msgstr "டாகுள்/அண்டாகுள் முழுதிரை"
+
+#: ../src/PantheonTerminal.vala:124
+msgid "Task finished"
+msgstr ""
+
+#: ../src/PantheonTerminal.vala:210
+msgid "Print version info and exit"
+msgstr "பதிப்பின் தகவல்களை அச்சிட்டு வெளியேறவும்"
+
+#: ../src/PantheonTerminal.vala:211
+msgid "Show about dialog"
+msgstr ""
+
+#: ../src/PantheonTerminal.vala:212
+msgid "Run a program in terminal"
+msgstr "முனையத்தில் ஒரு நிரலை இயக்க"
+
+#: ../src/PantheonTerminal.vala:213
+msgid "Set shell working directory"
+msgstr ""
+
+#: ../src/Constants.vala:5
+msgid "About Terminal"
+msgstr ""
+
+#: ../src/Constants.vala:6
+msgid "Use the command line"
+msgstr "கட்டளை வரியை பயன்படுத்து"
+
+#: ../src/Constants.vala:9
+msgid "New Root Window"
+msgstr "புதிய ரூட் சாளரம்"
+
+#: ../src/Constants.vala:10
+msgid "Open Terminal Here"
+msgstr ""
+
+#: ../src/ForegroundProcessDialog.vala:30
+msgid "Are you sure you want to close this tab?"
+msgstr ""
+"நீங்கள் தவலிளிருந்து வெளியேற வேண்டும் என்பதில் உறுதியாக இருக்கிறீர்களா?"
+
+#: ../src/ForegroundProcessDialog.vala:31
+msgid "There is an active process on this tab."
+msgstr "இந்த தவலில் ஒரு செயல் செயல்பாட்டில் உள்ளது."
+
+#: ../src/ForegroundProcessDialog.vala:32
+msgid "If you close it, the process will end."
+msgstr ""
+
+#: ../src/ForegroundProcessDialog.vala:36
+#: ../src/ForegroundProcessDialog.vala:59
+msgid "Cancel"
+msgstr "இரத்துசெய்"
+
+#: ../src/ForegroundProcessDialog.vala:40
+msgid "Close Tab"
+msgstr "தத்தலை மூடுக"
+
+#: ../src/ForegroundProcessDialog.vala:55
+msgid "Are you sure you want to quit Terminal?"
+msgstr ""
+"நீங்கள் முனையத்திலிருந்து வெளியேற வேண்டும் என்பதில் உறுதியாக இருக்கிறீர்களா?"
+
+#: ../src/ForegroundProcessDialog.vala:56
+msgid "There is an active process on this terminal."
+msgstr "இந்த முனையத்தில் ஒரு செயல் செயல்பாட்டில் உள்ளது."
+
+#: ../src/ForegroundProcessDialog.vala:57
+msgid "If you quit Terminal, the process will end."
+msgstr ""
+
+#: ../src/ForegroundProcessDialog.vala:63
+msgid "Quit Terminal"
+msgstr "முனையத்திலிருந்து வெளியேறு"
+
+#: ../src/SearchToolbar.vala:37
+msgid "Find"
+msgstr ""
+
+#: ../src/SearchToolbar.vala:49
+msgid "Previous result"
+msgstr ""
+
+#: ../src/SearchToolbar.vala:55
+msgid "Next result"
+msgstr ""
+
+#~ msgid "Open a new tab"
+#~ msgstr "புதிய தத்தலை திற"
+
+#~ msgid "If you quit Terminal, this process will end."
+#~ msgstr ""
+#~ "நீங்கள் முனையத்திலிருந்து வெளியேறினால், இந்த செயல்பாடு நிறுத்தப்படும்."
+
+#~ msgid "If you close this tab, this process will end."
+#~ msgstr "இந்த தாவலை மூடினால், இந்த செயல்பாடு நிறுத்தப்படும்."
+
+#~ msgid "Set shell at launch"
+#~ msgstr "துவக்கத்தில் ஷெல்லை அமைக்கவும்"

@@ -1,0 +1,53 @@
+pantheon-terminal (0.3.1+r713+pkg34-blankon1) tambora; urgency=low
+
+  * Import from Elementary OS 
+
+ -- Mahyuddin <yudi.al@gmail.com>  Wed, 08 Apr 2015 10:59:46 +0700
+
+pantheon-terminal (0.3.1+r713+pkg34~ubuntu15.04.1) vivid; urgency=low
+
+  * Auto build.
+
+ -- Launchpad Package Builder <noreply@launchpad.net>  Tue, 07 Apr 2015 14:46:59 +0000
+
+pantheon-terminal (0.3.1) trusty; urgency=low
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementaryos.org>  Mon, 06 Apr 2015 13:43:40 -0500
+
+pantheon-terminal (0.3.0.1) trusty; urgency=low
+
+  * New upstream release.
+
+ -- Sergey "Shnatsel" Davidoff <sergey@elementaryos.org>  Thu, 29 May 2014 15:00:04 +0400
+
+pantheon-terminal (0.3.0) trusty; urgency=low
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementaryos.org>  Sun, 25 May 2014 01:12:23 -0500
+
+pantheon-terminal (0.2.2) precise; urgency=low
+
+  * New upstream release.
+
+ --  <cody@elementaryos.org>  Fri, 21 Jun 2013 06:04:16 +0000
+
+pantheon-terminal (0.2.1) precise; urgency=low
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementaryos.org>  Sun, 09 Jun 2013 18:43:06 -0500
+
+pantheon-terminal (0.2) precise; urgency=low
+
+  * New upstream release.
+
+ -- Cody Garver <cody@elementaryos.org>  Tue, 26 Mar 2013 10:00:00 -0500
+
+pantheon-terminal (0.1) natty; urgency=low
+
+  * Initial Release.
+
+ -- Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>  Mon, 04 Jul 2011 17:14:43 +0400

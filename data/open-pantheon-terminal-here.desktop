@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Terminal
+TryExec=pantheon-terminal
+Exec=pantheon-terminal -w %u
+Icon=utilities-terminal
+Type=Application
+StartupNotify=true
+X-GNOME-Gettext-Domain=pantheon-terminal
+NoDisplay=true
+MimeType=inode/directory;
